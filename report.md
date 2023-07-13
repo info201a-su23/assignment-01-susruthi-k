@@ -4,6 +4,7 @@
 
 ## Data Viz Summary
 ![alt text](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImVyaTVoMzBnLzUxNTg0MzYyMDExNjA5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX19)
+
 This data visualization takes a gender analysis of movie dialogues. By looking at 2,000 screenplays (each dot representing one movie) and the amount of words spoken by males and females in each film, the graph shows the representation that each gender essentially receives in the movie industry. By graphing the results, there is a clear visual of how gender inequalities and biases present themselves on the big screen. Given how the large majority of the films were dominated with dialogues from male characters (with 54 movies only comprising of male dialogue v.s. the 2 movies of all female dialogue), it is clear how the industry needs to change. Part of this is through the vital component of challenging power. According to Catherine D'Ignazio and Lauren Klein, 
 > Data feminism commits to challenging unequal power structures and working toward justice. 
 
