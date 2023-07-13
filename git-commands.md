@@ -22,10 +22,12 @@ cd assignment-01-susruthi-k
 C:\Users\Susruthi\OneDrive\Desktop\INFO 201 Files\assignment-01-susruthi-k\images\Covid-19-Visualizations\covid-example-2.png
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
-
+git add git-commands.md
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
+git commit -m "I added the answers to the questions to this markdown file"
 
 # (9) Finally, push your changes to GitHub [1 point]
+git push
 
 ```
